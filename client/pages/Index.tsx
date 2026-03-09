@@ -149,7 +149,7 @@ export default function Index() {
               className="h-10 w-auto object-contain"
             />
             <h1
-              className="text-xl font-bold text-primary tracking-tight"
+              className="text-xl font-bold text-black tracking-tight"
               style={{ fontFamily: "Actor, sans-serif" }}
             >
               Aether Federation
